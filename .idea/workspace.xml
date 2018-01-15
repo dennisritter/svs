@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55fa11f8-c576-4a8c-a5c8-661668a15f60" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/a3/naive_dh.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a3/a3-1.py" afterPath="$PROJECT_DIR$/a3/a3-1.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,8 +12,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/svs$a3_1.coverage" NAME="a3-1 Coverage Results" MODIFIED="1515860675303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/a3" />
     <SUITE FILE_PATH="coverage/svs$naive_dh.coverage" NAME="naive_dh Coverage Results" MODIFIED="1515860831238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/a3" />
+    <SUITE FILE_PATH="coverage/svs$a3_1.coverage" NAME="a3-1 Coverage Results" MODIFIED="1516024423067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/a3" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -29,21 +29,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="a3-1.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="a3-1.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/a3/a3-1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="60" selection-end-column="25" />
+            <state relative-caret-position="442">
+              <caret line="81" column="13" lean-forward="false" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="naive_dh.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="naive_dh.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/a3/naive_dh.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="90" column="14" lean-forward="false" selection-start-line="90" selection-start-column="14" selection-end-line="90" selection-end-column="14" />
+            <state relative-caret-position="1275">
+              <caret line="85" column="35" lean-forward="true" selection-start-line="85" selection-start-column="35" selection-end-line="85" selection-end-column="35" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -73,8 +73,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/a3/a3-1.py" />
         <option value="$PROJECT_DIR$/a3/naive_dh.py" />
+        <option value="$PROJECT_DIR$/a3/a3-1.py" />
       </list>
     </option>
   </component>
@@ -154,7 +154,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.naive_dh">
+  <component name="RunManager" selected="Python.a3-1">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -306,12 +306,12 @@
       <option name="presentableId" value="Default" />
       <updated>1515676984605</updated>
       <workItem from="1515676986502" duration="5197000" />
-      <workItem from="1515855135702" duration="9025000" />
+      <workItem from="1515855135702" duration="13686000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14222000" />
+    <option name="totallyTimeSpent" value="18883000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -383,14 +383,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/a3/a3-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="60" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/a2/a2-1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
@@ -403,11 +395,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/a3/naive_dh.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="90" column="14" lean-forward="false" selection-start-line="90" selection-start-column="14" selection-end-line="90" selection-end-column="14" />
+        <state relative-caret-position="1275">
+          <caret line="85" column="35" lean-forward="true" selection-start-line="85" selection-start-column="35" selection-end-line="85" selection-end-column="35" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a3/a3-1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="81" column="13" lean-forward="false" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
